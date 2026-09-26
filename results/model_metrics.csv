@@ -1,0 +1,6 @@
+feature_set,model,n_test,R2,RMSE,MAE
+Baseline,Monthly climatology,548,0.409,59.908,44.915
+A: all co-pollutants (incl. PM10),Linear Regression,548,0.886,26.279,17.491
+A: all co-pollutants (incl. PM10),Random Forest,548,0.939,19.329,14.288
+B: gaseous pollutants only,Linear Regression,548,0.699,42.773,27.154
+B: gaseous pollutants only,Random Forest,548,0.788,35.895,24.965
