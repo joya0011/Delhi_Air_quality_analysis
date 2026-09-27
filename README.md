@@ -80,7 +80,7 @@ jupyter notebook delhi_air_quality_analysis.ipynb   # Run All — regenerates fi
 Or open the notebook in Google Colab and upload `data/delhi_city_day_2015_2020.csv`.
 
 ## Author
-**[Your Name]** — B.Tech. Civil Engineering, NIT Srinagar · [email] · [LinkedIn]
+**Mantasha Siddiqui** — B.Tech. Civil Engineering, NIT Srinagar · 
 
 ## References
 - CPCB (2009). *National Ambient Air Quality Standards*. Gazette of India, 18 Nov 2009.
